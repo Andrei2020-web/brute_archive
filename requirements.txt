@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+unrar==0.4
